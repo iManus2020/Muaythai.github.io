@@ -5,8 +5,8 @@ const nextConfig = {
     unoptimized: true,
   },
   // Uncomment and modify these lines when you know your GitHub Pages URL
-  // basePath: '/your-repo-name',
-  // assetPrefix: '/your-repo-name/',
+  // basePath: '/Muaythai.github.io',
+  // assetPrefix: '/Muaythai.github.io/',
   trailingSlash: true,
 };
 
